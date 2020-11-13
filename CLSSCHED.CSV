@@ -1,4 +1,4 @@
-Subj,CRS,Title,Cmp,Sctn,Days,Start Time,End Time,Mtg Start Date,Mtg End Date,Duration,Instruction Mode,Building,Room,Instr,Enrl Cap,Wait Cap,Cmbnd Descr,Cmbnd Enrl Cap
+Subject,Course,Title,Component,Section,Days,StartTime,EndTime,StartDate,EndDate,Duration,InstructionMode,Building,Room,Instructor,EnrollCap,WaitCap,CombDesc,CombEnrollCap
 CSE,101,Introduction to Computers,LEC,1,MWF,11:00 AM,11:53 AM,25-Jan-21,19-May-21,53,In Person,TBA,TBA,Kevin McDonnell,210,70,,
 CSE,101,Introduction to Computers,LAB,L01,M,12:00 PM,12:53 PM,25-Jan-21,19-May-21,53,In Person,COMPUTER SCI,2114,Kevin McDonnell,30,10, , 
 CSE,101,Introduction to Computers,LAB,L02,M,1:00 PM,1:53 PM,25-Jan-21,19-May-21,53,In Person,COMPUTER SCI,2114,Kevin McDonnell,30,10, , 
